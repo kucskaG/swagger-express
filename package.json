@@ -16,7 +16,7 @@
     "url": "https://github.com/fintechx/swagger-express.git"
   },
   "dependencies": {
-    "swagger-node-runner": "^0.7.0"
+    "swagger-node-runner": "git+https://github.com/fintechx/swagger-node-runner.git"
   },
   "devDependencies": {
     "lodash": "^4.17.20",
