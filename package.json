@@ -1,7 +1,7 @@
 {
   "name": "swagger-express-mw",
   "version": "0.7.0",
-  "description": "Swagger loader and middleware for express",
+  "description": "This project is a fork of swagger-express-mw: https://github.com/apigee-127/swagger-express.git",
   "keywords": [
     "swagger",
     "api",
@@ -13,7 +13,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/apigee-127/swagger-express.git"
+    "url": "https://github.com/fintechx/swagger-express.git"
   },
   "dependencies": {
     "swagger-node-runner": "^0.7.0"
