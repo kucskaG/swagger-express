@@ -20,11 +20,11 @@
   },
   "devDependencies": {
     "lodash": "^4.17.20",
-    "mocha": "^2.2.1",
+    "mocha": "^8.2.1",
     "should": "^5.2.0"
   },
   "scripts": {
-    "test": "mocha -u exports -R spec test test/lib",
+    "test": "mocha test/lib",
     "coverage": "istanbul cover _mocha -- -u exports -R spec test test/lib"
   }
 }
